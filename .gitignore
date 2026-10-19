@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+filtered/
+example_data/
